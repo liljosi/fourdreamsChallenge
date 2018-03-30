@@ -36,14 +36,20 @@ li{
             margin-right: 40px;
 
 }
-a:hover,:visited{
+a:visited{
     color: #FFFFFF;
     
     
 
 }
+
+a:hover{
+    color:#F38A8A;
+   
+}
 a{
     color: #FFFFFF;
+    text-decoration: none;
 }
 
 .somosText{
@@ -378,3 +384,10 @@ footer{
     margin-top: 63px;
     opacity: 0px;
 }
+
+.active{
+    
+      color:#FFFFFF;
+      border-bottom:1px solid #F7931E;
+     }
+    
