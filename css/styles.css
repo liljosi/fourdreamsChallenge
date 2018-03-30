@@ -1,0 +1,377 @@
+body { 
+    margin:0; 
+}
+.backgroundInicio{
+    background-image: url("../images/personas-trabajando.jpg");
+    background-size: cover;
+    height: 830px;	width: 1445px;
+
+}
+hr{
+    width: 3.80%;
+    background-color: white;
+    margin-left: 193px;
+}
+
+.logo{
+    margin-left: 30px;
+    margin-top: 62px;
+}
+
+.linkList{
+    list-style-type: none;
+   
+    margin-top: 58px;
+  
+}
+
+
+li{
+    display: inline;
+    	
+        color: #FFFFFF;	
+        font-family: ".SF NS Display";
+            font-size: 14px;	
+            line-height: 17px;
+            margin-right: 40px;
+
+}
+a:hover,:visited{
+    color: #FFFFFF;
+    
+    
+
+}
+
+.somosText{
+    height: 33px;
+        width: 73px;	
+        color: #FFFFFF;	
+        font-family: "Open Sans";	
+        font-size: 24px;	
+        font-weight: 300;	
+        line-height: 33px;
+        margin-left: 190px;
+        margin-top: 220px;
+}
+
+.idealistasText{
+    height: 108px;	
+    width: 644px;	
+    color: #FFFFFF;	
+    font-family: Montserrat;	
+    font-size: 44px;	
+    
+    line-height: 54px;
+    margin-left: 190px;
+}
+
+.envolvingText{
+        
+    	
+    color: #F15A24;	
+    font-family: "Open Sans";	
+    font-size: 24px;	
+    font-weight: 300;	
+    line-height: 33px;
+    margin-left: 190px;
+   
+}
+
+.somos{
+    height: 877px;	
+    width: 1445px;	
+    background-color: #FB9720;
+}
+
+.quienesSomos{
+    height: 392px;	
+    width: 550px;	
+    color: #FFFFFF;	
+    font-family: Montserrat;	
+    font-size: 16px;	
+    font-weight: 600;	
+    line-height: 19px;
+    margin-top: 21px;
+    text-align: justify;
+    
+}
+.quienesSomosLabels{
+    	
+        color: #4A4A4A;	
+        font-family: Montserrat;	
+        font-size: 24px;	
+        font-weight: 600;	
+        line-height: 29px;
+        margin-top: 69px;
+       
+}
+
+.misionText{
+    height: 264px;	
+    width: 256px;	
+    color: #FFFFFF;	
+    font-family: ".SF NS Display";	
+    font-size: 16px;	
+    line-height: 18px;
+    margin-bottom: 178px;
+    
+    
+}
+.misionLabel{
+    color: #4A4A4A;	
+        font-family: Montserrat;	
+        font-size: 24px;	
+        font-weight: 600;	
+        line-height: 29px;
+}
+
+.visionLabel{
+    color: #4A4A4A;	
+    font-family: Montserrat;	
+    font-size: 24px;	
+    font-weight: 600;	
+    line-height: 29px;
+    margin-left: 0px;
+  
+    
+    
+    
+}
+
+.servicios{
+    width: 1445px;
+    height: 887px;
+}
+
+.visionText{
+    height: 220px;	
+    width: 250px;	
+    color: #FFFFFF;	
+    font-family: ".SF NS Display";	
+    font-size: 16px;	
+    line-height: 18px;
+   
+   
+    
+}
+
+.envuelto{
+    margin-bottom: 200px;
+}
+
+.solucionamosProblemas{
+    height: 132px;	
+    width: 497px;	
+    color: #FFFFFF;	
+    font-family: Montserrat;	
+    font-size: 36px;	
+    line-height: 44px;
+    margin-top: 120px;
+    margin-left: 30px;
+    text-align: justify;
+}
+
+.medianteMetodologias{
+    height: 176px;	
+    width: 464px;	
+    color: #FFFFFF;	
+    font-family: Montserrat;	
+    font-size: 36px;	
+    line-height: 44px;
+    margin-left: 30px;
+    text-align: justify;
+    letter-spacing: -2px;
+    margin-top: 35px;
+}
+
+.isotipo{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.first{
+    height: 509px;	width: 710px;	opacity: 0.79;	
+    background-image: url("../images/background-dedo-codigo.jpg");
+    box-shadow: inset 0 0 0 400px rgba(37, 37, 37, 0.74);
+    width: 720px;
+}
+
+.iso-dispositivos{
+  
+    
+    
+    margin-left: 230px;
+    
+  
+  
+}
+
+.tu-solucion{
+    
+    color: #FFFFFF;	
+    font-family: Montserrat;	
+    font-size: 24px;	
+    line-height: 29px;
+    margin-top: 200px;
+    margin-left: 10px;
+    
+   
+}
+
+.tu-solucion-texto{
+    height: 88px;	
+    width: 464px;	
+    color: #FFFFFF;	
+    font-family: ".SF NS Display";	
+    font-size: 16px;	
+    line-height: 18px;	
+    text-align: center;
+   margin-top: 30px;
+    margin-left: 206px;
+}
+
+.letra-amarilla{
+    color: #FB9720;
+}
+.fourth{
+    background-color:#C1262C;
+    	width: 720px;
+}
+
+.serviciosLabel{
+    height: 44px;	
+    width: 167px;	
+    color: #FFFFFF;	
+    font-family: Montserrat;	
+    font-size: 36px;	
+    font-weight: bold;	
+    line-height: 44px;
+    margin-top: 109px;
+    margin-left: 30px;
+}
+
+.serviciosText{
+    height: 297px;	
+    width: 411px;	
+    color: #FFFFFF;	
+    font-family: ".SF NS Display";	
+    font-size: 16px;	
+    line-height: 18px;
+    margin-top: 69px;
+    margin-left: 30px;
+    text-align: justify;
+}
+
+.second{
+    height: 509px;	width: 720px;
+    background-image: url("../images/dedo2.png");
+    
+}
+
+.third{
+    width: 720px;
+}
+
+.persona-riendo{
+    
+    width: 720px;
+}
+.contacto{
+    background-color:#FFFFFF; 
+    width: 1445px;
+    height: 700px;
+    margin-top: 300px;
+}
+
+.contactoLabel{
+    height: 44px;	
+    width: 234px;	
+    color: #64646A;	
+    font-family: Montserrat;	
+    font-size: 36px;	
+    font-weight: 600;	
+    line-height: 44px;
+    margin-top: 133px;
+    margin-left: 50px;
+}
+
+.contactoText{
+    height: 154px;	
+    width: 377px;	
+    color: #64646A;	
+    font-family: ".SF NS Display";	
+    font-size: 16px;	
+    line-height: 18px;
+    margin-top: 69px;
+    margin-left: 50px;
+    text-align: justify;
+}
+
+.ubicacionText{
+        height: 199px;
+        width: 357px;	
+        color: #64646A;	
+        font-family: Montserrat;	
+        font-size: 16px;	
+        font-weight: 600;	
+        line-height: 19px;
+        margin-left: 50px;
+}
+.ubicacionLabel{
+    	
+        color: #64646A;	
+        font-family: Montserrat;	
+        font-size: 16px;	
+        font-weight: 600;	
+        line-height: 19px;
+        margin-left: 40px;
+
+}
+
+.telefonoText{
+        height: 199px;
+        width: 357px;	
+        color: #64646A;	
+        font-family: Montserrat;	
+        font-size: 16px;	
+        font-weight: 600;	
+        line-height: 19px;
+        margin-left: 40px;
+}
+.telefonoLabel{
+    	
+        color: #64646A;	
+        font-family: Montserrat;	
+        font-size: 16px;	
+        font-weight: 600;	
+        line-height: 19px;
+        margin-left: 40px;
+
+}
+
+.miniLogos{
+    margin-right: 10px;
+}
+
+.formulario{
+    margin-top: 250px;
+}
+
+textarea{
+    resize: none;
+}
+
+footer{
+    height: 183px;	
+    width: 1440px;	
+    border: 1px solid #979797;	
+    background-color: #D8D8D8;
+   
+}
+
+.isotipoFooter{
+    margin-left: 688px;
+    margin-top: 63px;
+    opacity: 0px;
+}
