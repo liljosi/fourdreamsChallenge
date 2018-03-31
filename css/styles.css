@@ -1,5 +1,6 @@
 body { 
     margin:0; 
+    position: relative;
 }
 .backgroundInicio{
     background-image: url("../images/personas-trabajando.jpg");
@@ -15,7 +16,7 @@ hr{
 
 .logo{
     margin-left: 30px;
-    margin-top: 62px;
+    margin-top: 53px;
 }
 
 .linkList{
@@ -61,7 +62,7 @@ a{
         font-weight: 300;	
         line-height: 33px;
         margin-left: 190px;
-        margin-top: 220px;
+        margin-top: 330px;
 }
 
 .idealistasText{
@@ -385,5 +386,7 @@ footer{
     opacity: 0px;
 }
 
-
+.active{
+    border-bottom-color: 1px solid #FB9720;
+}
     
